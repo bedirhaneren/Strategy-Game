@@ -1,0 +1,192 @@
+Insan Imparatorlugu Senaryo Baslangic Bilgileri 
+Piyadeler : 1000.0 Birim (Saldiri Gucu :30.000000 , Savunma Gucu : 52.000000, Saglik :100.000000 Kritik Vurus Sansi :5.000000
+Okçular: 1000.0 Birim (Saldiri Gucu: 40.000000, Savunma Gucu: 26.000000, Saglik: 80.000000, Kritik Vurus Sansi: 10.000000)
+Suvariler: 1000.0 Birim (Saldiri Gucu: 50.000000, Savunma Gucu: 39.000000, Saglik: 120.000000, Kritik Vurus Sansi: 7.000000)
+Kusatma Makineleri: 1000.0 Birim (Saldiri Gucu: 100.000000, Savunma Gucu: 65.000000, Saglik: 150.000000, Kritik Vurus Sansi: 0.000000)
+
+
+
+Ork Legi Senaryo Baslangic Bilgileri 
+
+
+Ork Dovusculeri: 1000.0 Birim (Saldiri Gucu: 45.500000, Savunma Gucu: 25.000000, Saglik: 100.000000, Kritik Vurus Sansi: 8.000000)
+Mizrakcilar: 1000.0 Birim (Saldiri Gucu: 58.500000, Savunma Gucu: 20.000000, Saglik: 90.000000, Kritik Vurus Sansi: 5.000000)
+Varg Binicileri: 1000.0 Birim (Saldiri Gucu: 71.500000, Savunma Gucu: 35.000000, Saglik: 130.000000, Kritik Vurus Sansi: 6.000000)
+Troller: 1000.0 Birim (Saldiri Gucu: 91.000000, Savunma Gucu: 40.000000, Saglik: 200.000000, Kritik Vurus Sansi: 5.000000)
+Arastirmalar
+Insan Imparatorlugu
+Insanlar anlik saldiri gucu : 220000.000000
+Insanlar anlik savunma gucu : 182000.000000
+Orklar anlik saldiri gucu : 266500.000000
+Insanlar anlik savunma gucu : 120000.000000
+
+Insanlar vuracak tur :1
+
+Ork leginin insan tarafindan yedigi hasar : 100000.000000
+Ork leginde ork_dovuscusunun yedigi hasar : 20833.333984
+birlik sayisi: 792
+Ork leginde mizrakcilarin yedigi hasar: 16666.666016
+birlik sayisi: 815
+Ork leginde trollerin yedigi hasar : 33333.332031
+birlik sayisi:834
+Ork leginde varg_binicilerinin yedigi hasar : 29166.666016
+birlik sayisi: 776
+
+ORK KALAN CAN : 420000.000000
+
+Ork legi vuracak tur: 2
+
+Insanlarin Orklar tarafindan yedigi hasar :  84500.000000
+Insan imparatorlugunda piyadelerin yedigi hasar : 24142.857422
+birlik sayisi:759
+Insan imparatorlugunda okcularin yedigi hasar : 12071.428711
+birlik sayisi:850
+Insan imparatorlugunda suvarilerin yedigi hasar : 18107.142578
+birlik sayisi:850
+Insan imparatorlugunda kusatma makineleri yedigi hasar : 30178.572266
+birlik sayisi:799
+
+INSAN KALAN CAN : 365500.000000Insanlar anlik saldiri gucu : 220000.000000
+Insanlar anlik savunma gucu : 146653.000000
+Orklar anlik saldiri gucu : 215091.500000
+Insanlar anlik savunma gucu : 96620.000000
+
+Insanlar vuracak tur :3
+
+Ork leginin insan tarafindan yedigi hasar : 123380.000000
+Ork leginde ork_dovuscusunun yedigi hasar : 25283.833984
+birlik sayisi: 539
+Ork leginde mizrakcilarin yedigi hasar: 20814.468750
+birlik sayisi: 584
+Ork leginde trollerin yedigi hasar : 42599.429688
+birlik sayisi:621
+Ork leginde varg_binicilerinin yedigi hasar : 34682.269531
+birlik sayisi: 509
+
+ORK KALAN CAN : 296620.000000
+
+Ork legi vuracak tur: 4
+
+Insanlarin Orklar tarafindan yedigi hasar :  68438.500000
+Insan imparatorlugunda piyadelerin yedigi hasar : 18418.517578
+birlik sayisi:575
+Insan imparatorlugunda okcularin yedigi hasar : 10313.398438
+birlik sayisi:721
+Insan imparatorlugunda suvarilerin yedigi hasar : 15470.097656
+birlik sayisi:721
+Insan imparatorlugunda kusatma makineleri yedigi hasar : 24236.486328
+birlik sayisi:638
+
+INSAN KALAN CAN : 297061.500000Insanlar anlik saldiri gucu : 220000.000000
+Insanlar anlik savunma gucu : 118235.000000
+Orklar anlik saldiri gucu : 151593.000000
+Insanlar anlik savunma gucu : 67810.000000
+YORGUNLUK !  AZALTILDI.
+Insanlar vuracak tur :5
+
+Ork leginin insan tarafindan yedigi hasar : 70317.000000
+Ork leginde ork_dovuscusunun yedigi hasar : 13973.183594
+birlik sayisi: 400
+Ork leginde mizrakcilarin yedigi hasar: 12111.820313
+birlik sayisi: 449
+Ork leginde trollerin yedigi hasar : 25758.357422
+birlik sayisi:492
+Ork leginde varg_binicilerinin yedigi hasar : 18473.636719
+birlik sayisi: 367
+
+ORK KALAN CAN : 226303.000000
+
+Ork legi vuracak tur: 6
+
+Insanlarin Orklar tarafindan yedigi hasar :  30022.203125
+Insan imparatorlugunda piyadelerin yedigi hasar : 7592.200684
+birlik sayisi:499
+Insan imparatorlugunda okcularin yedigi hasar : 4759.979980
+birlik sayisi:661
+Insan imparatorlugunda suvarilerin yedigi hasar : 7139.969727
+birlik sayisi:661
+Insan imparatorlugunda kusatma makineleri yedigi hasar : 10530.052734
+birlik sayisi:568
+
+INSAN KALAN CAN : 267039.312500Insanlar anlik saldiri gucu : 131346.000000
+Insanlar anlik savunma gucu : 95249.703125
+Orklar anlik saldiri gucu : 103931.101563
+Insanlar anlik savunma gucu : 46354.500000
+
+Insanlar vuracak tur :7
+
+Ork leginin insan tarafindan yedigi hasar : 84991.500000
+Ork leginde ork_dovuscusunun yedigi hasar : 16501.601563
+birlik sayisi: 235
+Ork leginde mizrakcilarin yedigi hasar: 14818.438477
+birlik sayisi: 285
+Ork leginde trollerin yedigi hasar : 32475.152344
+birlik sayisi:330
+Ork leginde varg_binicilerinin yedigi hasar : 21196.306641
+birlik sayisi: 204
+
+ORK KALAN CAN : 141311.500000
+
+Ork legi vuracak tur: 8
+
+Insanlarin Orklar tarafindan yedigi hasar :  8681.398437
+Insan imparatorlugunda piyadelerin yedigi hasar : 2128.494141
+birlik sayisi:478
+Insan imparatorlugunda okcularin yedigi hasar : 1409.754028
+birlik sayisi:644
+Insan imparatorlugunda suvarilerin yedigi hasar : 2114.631104
+birlik sayisi:644
+Insan imparatorlugunda kusatma makineleri yedigi hasar : 3028.518799
+birlik sayisi:547
+
+INSAN KALAN CAN : 258357.906250Insanlar anlik saldiri gucu : 131346.000000
+Insanlar anlik savunma gucu : 92043.898438
+Orklar anlik saldiri gucu : 64782.898438
+Insanlar anlik savunma gucu : 28723.500000
+
+Insanlar vuracak tur :9
+
+Ork leginin insan tarafindan yedigi hasar : 102622.500000
+Ork leginde ork_dovuscusunun yedigi hasar : 18891.029297
+birlik sayisi: 46
+Ork leginde mizrakcilarin yedigi hasar: 18328.318359
+birlik sayisi: 81
+Ork leginde trollerin yedigi hasar : 42444.523438
+birlik sayisi:117
+Ork leginde varg_binicilerinin yedigi hasar : 22958.628906
+birlik sayisi: 28
+
+ORK KALAN CAN : 38689.000000
+YORGUNLUK !  AZALTILDI.
+Ork legi vuracak tur: 10
+
+Insanlarin Orklar tarafindan yedigi hasar :  0.000000
+Insan imparatorlugunda piyadelerin yedigi hasar : 0.000000
+birlik sayisi:478
+Insan imparatorlugunda okcularin yedigi hasar : 0.000000
+birlik sayisi:644
+Insan imparatorlugunda suvarilerin yedigi hasar : 0.000000
+birlik sayisi:644
+Insan imparatorlugunda kusatma makineleri yedigi hasar : 0.000000
+birlik sayisi:547
+
+INSAN KALAN CAN : 258357.906250Insanlar anlik saldiri gucu : 102870.000000
+Insanlar anlik savunma gucu : 82839.507813
+Orklar anlik saldiri gucu : 15779.205078
+Insanlar anlik savunma gucu : 6828.300781
+
+Insanlar vuracak tur :11
+
+Ork leginin insan tarafindan yedigi hasar : 96041.699219
+Ork leginde ork_dovuscusunun yedigi hasar : 0.000000
+birlik sayisi: 0
+Ork leginde mizrakcilarin yedigi hasar: 0.000000
+birlik sayisi: 0
+Ork leginde trollerin yedigi hasar : 0.000000
+birlik sayisi:0
+Ork leginde varg_binicilerinin yedigi hasar : 0.000000
+birlik sayisi: 0
+
+ORK KALAN CAN : 0.000000
+
+INSANLAR KAZANDI..
