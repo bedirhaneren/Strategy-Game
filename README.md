@@ -10,8 +10,7 @@ Her iki takımın da araştırma etkileri bulunmaktadır. Toplamda 4 adet araşt
 
 Oyunda bir yorgunluk mekanizması da bulunmaktadır. Birimler her 5 turda bir yorulurlar ve saldırı güçleri %10 azalır. Tüm bu etkiler, oyunu daha stratejik bir hale getirmekte ve çeşitlilik sağlamaktadır.
 
-![Uploading okcular.png…]()
-
+<a href="https://hizliresim.com/p6gxt9g"><img src="https://i.hizliresim.com/p6gxt9g.png" alt="Resim Yükle"></a>
 
 # **Yöntem**
 
