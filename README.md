@@ -1,5 +1,5 @@
 # 🐉 **ORKMANIA**
-Bu oyun senaryo tabanlı bir oyundur ve kullanıcı interaktifliği içermez. Proje dosya açma kapama, veri okuma, index yapıları ve pointerlar konularını pekiştirmek için geliştirilmiştir.
+Bu oyun senaryo tabanlı bir 2D oyundur. Proje dosya açma kapama, veri okuma, index yapıları ve pointerlar konularını pekiştirmek için geliştirilmiştir. Dosyaların çekildiği verileri proje dizinindeki *Files* klasörü içerisinde bulabilirsiniz.
 
 # **Oyunun Açıklaması** :
 Bu projede, İnsan İmparatorluğu ve Ork Lejyonu arasındaki bir strateji tabanlı ızgara oyunu simüle edilmektedir. Her iki tarafın kendilerine ait temel birimleri bulunmaktadır. Bu birimlerin saldırı, savunma, sağlık ve kritik vuruş oranları gibi çeşitli özellikleri vardır.
