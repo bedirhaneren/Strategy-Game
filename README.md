@@ -1,1 +1,2 @@
-Orkmania ızgara tabanlı bir strateji oyunudur. Oyun senaryo tabanlıdır.
+# 🐉 **ORKMANIA**
+Orkmania ızgara tabanlı bir strateji oyunudur. Oyun senaryo tabanlıdır
