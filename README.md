@@ -16,5 +16,5 @@ Oyunda yer alan birimlerin her birinin görselleri, PNG formatındaki dosyalarda
 Tüm bu süreçte, birimlere, kahramanlara, canavarlara ve araştırma etkilerine ait veriler, proje dosyasında bulunan JSON dosyalarından manuel olarak okunur. JSON dosyalarının veri sırası önemli değildir; kod, bu dosyaları veri sırasına bağımsız olarak okuyacak şekilde tasarlanmıştır. Senaryoya ait veriler okulumun vermiş bir linkten hazır kütüphane (CURL) kullanılarak JSON dosyalarından çekilir. Senaryolar sabittir ve kullanıcı tarafından arayüzde değiştirilemez. Fakat manuel olarak bir senaryo yazıp oyundaki sonucunu görebilirsiniz. Okunan veriler, gerekli yapıların değişkenlerine atanır ve bu değişkenlerdeki verilere göre savaş simüle edilir.
 
 # Örnek Görüntüler
-<a href="https://hizliresim.com/y9yi089"><img src="https://i.hizliresim.com/y9yi089.jpg" alt="Resim Yükle"></a>
-<a href="https://hizliresim.com/ehx7dil"><img src="https://i.hizliresim.com/ehx7dil.jpg" alt="Resim Yükle"></a>
+![y9yi089 (1)](https://github.com/user-attachments/assets/13ded6ca-1aad-4471-83df-ad34936a97af)
+![ehx7dil](https://github.com/user-attachments/assets/e1c470a9-8398-4bc7-b83a-dc6f26497df0)
